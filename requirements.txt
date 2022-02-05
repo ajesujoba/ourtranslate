@@ -1,0 +1,8 @@
+torch==1.6.0+cpu torchvision==0.7.0+cpu -f https://download.pytorch.org/whl/torch_stable.html
+transformers
+numpy==1.19.1
+httpie
+flask
+joblib==0.16.0
+sentencepiece==0.1.91
+urllib3==1.25.10
